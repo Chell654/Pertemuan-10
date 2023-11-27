@@ -122,7 +122,7 @@ for z in list.items():
 >`list.items():` memanggil isi dari variable list, `.format`  Digunakan untuk mengatur format string yang nantinya akan dicetak atau ditampilkan ke layar.<br>
 
 >Apabila kita menginput 'l/L' maka sistem akan menampilkan data - data yang sudah kita masukkan. Jika kita belum memasukkan data maka outputnya menjadi "TIDAK ADA DATA".
-<img src="Praktikum5/Nodata.png">
+<img src="praktikum 5/ss 1.png">
 
 
 ### Keluar program
