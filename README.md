@@ -135,7 +135,7 @@ for z in list.items():
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/U/H/C/L] untuk menjalankan program!".format(c))
 ```
 ><b>Program untuk menghentikan perulangan</b><br>Jika menginput"k/K" program akan berhenti melakukan perulangan dan otomatis keluar dari program
-<img src="Praktikum5/Noinput.png">
+<img src="praktikum 5/ss 2.png">
 
 ### Hasil program
 <p align="center"> <img src="Praktikum5/Praktikum5.png">
