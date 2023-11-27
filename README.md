@@ -145,7 +145,7 @@ for z in list.items():
 
 
 ### Flowchart
-<p align="center"><img src="Praktikum5/Flowchart.png" height="700"></p>
+<p align="center"><img src="praktikum 5/flow chart.png">
 
 *********************************************************
 
